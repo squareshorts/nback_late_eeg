@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "permutations": 100000,
+  "seeds": [
+    2026081901,
+    2026081902,
+    2026081903,
+    2026081904
+  ],
+  "cft_ps": [
+    0.01,
+    0.005
+  ],
+  "adjacency": "connected Delaunay subset, geodesic <=46.1 degrees"
+}

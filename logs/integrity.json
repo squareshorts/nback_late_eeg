@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "required_deliverables": 12,
+  "figures": 7,
+  "hashed_files": 8133,
+  "permutations": 100000,
+  "maxstat_surviving_voxels": 12
+}

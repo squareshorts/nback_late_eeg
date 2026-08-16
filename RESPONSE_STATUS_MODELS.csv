@@ -1,0 +1,13 @@
+cluster,term,estimate_db,ci95_low,ci95_high,p_value,model,trial_n,false_alarm_n,stability
+early,Intercept,-0.8709447867284749,-1.6988051240209772,-0.04308444943597245,0.03921091026241019,GEE Gaussian exchangeable; participant clusters,3244,45,sparse false alarms; interaction exploratory
+early,C(load)[T.1],0.6501911371023268,0.3898597887975863,0.9105224854070673,9.82495557913798e-07,GEE Gaussian exchangeable; participant clusters,3244,45,sparse false alarms; interaction exploratory
+early,C(load)[T.2],0.6445536812839497,0.32298235032523465,0.9661250122426648,8.546737468926914e-05,GEE Gaussian exchangeable; participant clusters,3244,45,sparse false alarms; interaction exploratory
+early,response_status,-0.34946552795679353,-1.3186077551164348,0.6196766992028477,0.47972276249266776,GEE Gaussian exchangeable; participant clusters,3244,45,sparse false alarms; interaction exploratory
+early,C(load)[T.1]:response_status,-0.2462610965186473,-1.239732364328573,0.7472101712912784,0.6270843234507326,GEE Gaussian exchangeable; participant clusters,3244,45,sparse false alarms; interaction exploratory
+early,C(load)[T.2]:response_status,-0.17655851337328948,-1.5108893442015758,1.157772317454997,0.7953712022300887,GEE Gaussian exchangeable; participant clusters,3244,45,sparse false alarms; interaction exploratory
+late,Intercept,-1.3905730884465068,-1.6840977697328943,-1.0970484071601194,1.612086876968678e-20,GEE Gaussian exchangeable; participant clusters,3244,45,sparse false alarms; interaction exploratory
+late,C(load)[T.1],-0.7411631324024799,-0.9672514136805167,-0.5150748511244431,1.3173216917584844e-10,GEE Gaussian exchangeable; participant clusters,3244,45,sparse false alarms; interaction exploratory
+late,C(load)[T.2],-0.5955793707045012,-0.9266479675564693,-0.2645107738525331,0.0004220494226534737,GEE Gaussian exchangeable; participant clusters,3244,45,sparse false alarms; interaction exploratory
+late,response_status,0.14190961211815858,-1.0155089800502326,1.29932820428655,0.8100909700146183,GEE Gaussian exchangeable; participant clusters,3244,45,sparse false alarms; interaction exploratory
+late,C(load)[T.1]:response_status,-0.44253601289967853,-2.53094416458751,1.645872138788153,0.677908722781871,GEE Gaussian exchangeable; participant clusters,3244,45,sparse false alarms; interaction exploratory
+late,C(load)[T.2]:response_status,-0.9175412129350494,-2.01680310830871,0.18172068243861117,0.10184810368216189,GEE Gaussian exchangeable; participant clusters,3244,45,sparse false alarms; interaction exploratory

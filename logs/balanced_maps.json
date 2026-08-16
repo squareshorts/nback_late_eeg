@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "participant_n": 16,
+  "common_code_count": 10,
+  "specifications": [
+    "frequency_safe_ersp",
+    "absolute_log_post"
+  ],
+  "deterministic": "equal unweighted code means before feature discovery"
+}

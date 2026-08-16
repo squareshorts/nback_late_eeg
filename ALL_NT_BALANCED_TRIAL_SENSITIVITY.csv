@@ -1,0 +1,5 @@
+cluster,contrast,repetitions,median_db,interval_2_5,interval_97_5,percent_expected_direction,estimator
+early,step_later_minus_0,500,0.5421625510271887,0.44084958778244226,0.6566523699751775,100.0,trial-level safe ERSP within held-out balanced LOSO masks; equal code and count sampling
+early,2_minus_1,500,0.005530919152962669,-0.10276616284992954,0.10756331234364952,55.00000000000001,trial-level safe ERSP within held-out balanced LOSO masks; equal code and count sampling
+late,step_later_minus_0,500,-0.7324847787910558,-0.8076572465593548,-0.6598461441407552,100.0,trial-level safe ERSP within held-out balanced LOSO masks; equal code and count sampling
+late,2_minus_1,500,0.22769913660907048,0.16447958129970583,0.2834765527249172,100.0,trial-level safe ERSP within held-out balanced LOSO masks; equal code and count sampling
