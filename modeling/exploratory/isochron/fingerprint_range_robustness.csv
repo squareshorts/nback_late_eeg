@@ -1,0 +1,3 @@
+model_family,q_required_min_over_D,q_required_max_over_D,reported_rc_min_over_D,reported_rc_max_over_D,entire_q_range_below_rc_min
+FHN,0.14076423957229545,0.15099289927367465,0.161,0.2,True
+ML Type II,0.13603996332662102,0.16343379310265702,0.212,0.247,True

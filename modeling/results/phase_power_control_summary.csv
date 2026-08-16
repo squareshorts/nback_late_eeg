@@ -1,0 +1,6 @@
+analysis,target,contrast,estimate,ci95_low,ci95_high,dz,exact_signflip_p,direction_count
+Power replication,12 max-stat voxels,step later - 0,-1.632002,-2.076035,-1.187969,-1.958485,3.1e-05,16/16 negative
+Power replication,F3 15 Hz core,step later - 0,-1.330326,-1.842181,-0.818471,-1.384924,0.000214,14/16 negative
+Phase PPC (code-balanced),12 max-stat voxels,step later - 0,-0.003042,-0.026682,0.020598,-0.068566,0.797516,8/16 negative
+Phase PPC (code-balanced),F3 15 Hz core,step later - 0,-0.025104,-0.057124,0.006916,-0.417768,0.113434,11/16 negative
+Spatial phase order R,"15 Hz, 620-720 ms",step later - 0,-0.003735,-0.009605,0.002135,-0.339033,0.191193,8/16 negative
